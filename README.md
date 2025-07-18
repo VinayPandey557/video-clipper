@@ -28,7 +28,8 @@ Installation
 
 Clone the repository
 
-bashgit clone https://github.com/yourusername/video-clipper.git
+bashgit clone https://github.com/vinaypandey557/video-clipper.git
+
 cd video-clipper
 
 Setup Backend
@@ -49,19 +50,7 @@ Open your browser
 Frontend: http://localhost:3000
 Backend API: http://localhost:3001
 
-📁 Project Structure
-video-clipper/
-├── backend/
-│   ├── server.js          # Express server
-│   ├── package.json       # Backend dependencies
-│   ├── uploads/           # Uploaded videos
-│   └── clips/            # Generated clips
-├── frontend/
-│   ├── src/
-│   │   ├── App.js        # React main component
-│   │   └── index.css     # Styles
-│   └── package.json      # Frontend dependencies
-└── README.md
+
 🛠️ Tech Stack
 Backend
 
